@@ -1,4 +1,4 @@
-create readme file for multi disease prediction for heart disease, diabetes and obesity using boosting techniques 
+
 Multi Disease Prediction for Heart Disease, Diabetes, and Obesity using Boosting Techniques
 
 This repository contains code and data for a machine learning model that predicts the likelihood of an individual developing heart disease, diabetes, and obesity simultaneously, using boosting techniques.
